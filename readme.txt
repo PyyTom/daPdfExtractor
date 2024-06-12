@@ -1,0 +1,1 @@
+This simple app extracts and shows all text in a selected PDF document.
